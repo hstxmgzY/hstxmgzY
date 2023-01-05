@@ -33,9 +33,8 @@
   + 方向是网络工程与技术（但是就四门课不一样，也不知道会怎么样，大三才有课不一样），菜
   + 数模小白，退役（可能之后会回归，我不懂的）省一编程👋，现役写作，菜 只会C题
   + 对算法一窍不通qaq，菜
-  + 不会修电脑
+  + 不会修电脑，菜
   + 想成为能帮助其他人的人
-  + 一个还没被社会磨平棱角的大学牲罢了
+  + 一个还没被社会磨平棱角的大学牲罢了，菜
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hstxmgzY)](https://github.com/anuraghazra/github-readme-stats)
+[![hstxmgzY's GitHub stats](https://github-readme-stats.vercel.app/api?username=hstxmgzY)](https://github.com/anuraghazra/github-readme-stats)
