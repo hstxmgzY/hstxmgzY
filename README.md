@@ -1,6 +1,1 @@
-### Hi there 👋,I'm Blitheeeeeeeeeeeeeeeee
-
-
-
-要时刻保持谦虚谨慎
-
+为什么每次上岸都要被猫追啊！
